@@ -1,4 +1,4 @@
-c'est pas un blog ici
+c'est pas un blog ici bizouilles
 workspace()
 
 import Base: convert, ==, isless, +, -, *, sin, cos, angle
